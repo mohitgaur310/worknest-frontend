@@ -1,0 +1,23 @@
+.page {
+  padding: 48px 24px;
+  text-align: left;
+}
+
+.lead {
+  margin-bottom: 24px;
+}
+
+.error {
+  color: #b91c1c;
+}
+
+.health {
+  margin: 0;
+  padding: 16px;
+  overflow: auto;
+  text-align: left;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--code-bg);
+  color: var(--text-h);
+}
